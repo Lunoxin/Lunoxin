@@ -1,0 +1,36 @@
+<!-- Created by: Christopher Oliver -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+				<meta charset="UTF-8">
+				<title>lbp.wifi/index.php</title>
+				<style>
+								body{
+												background-color:none;
+								}
+								h1{
+												text-align:;
+												color:green;
+								}
+								p{
+												color:skyblue;
+								}
+				</style>
+				
+				 <img src="file:///storage/emulated/0/Download/Wifi pubg.jpg" width="100%" height="" 
+				
+</head>
+<body style="text-align:center;">
+				<img src="file:///storage/emulated/0/Download/wifi logo green1.jpg" width="35px" height="27px" alt="">
+				<h1>Connected</h1>
+				<p>IP:10.0.21.218 | MAC:54:4E:90:39:4E:66
+				<br>ACCOUNT CREDITS:₱0<br>
+				REMAINING TIME:<br></p>
+				<h1 style="color:Red;">Created by: Topher Oliver</h1>
+				<p style="background-color:green; color:white; padding:10px;">Insert Money</p>
+				<p style="background-color:Red; color:white; padding:10px;">Pause Time</p>
+				<p style="background-color:blue; color:white; padding:10px;">Wifi Rates</p>
+				
+				<input type="text" name="Enter Vouncher here... " placeholder="Enter Vouncher here...">Submit</input>
+</body>
+</html>
